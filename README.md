@@ -7,6 +7,7 @@ Serial port connection
 3. The Pins can be changed but need to be refactor on the code
 4. The PortName is on com5 but that the port in which the arduino is connected to my local machine, 
 this would have to be change for the serial comunication to work with the com port in which hte arduino is connected 
+5. The Scketch code is on the Folder sketch_may01a
 
 ## Requirements
 1. Visual Studio (2015 - Latest)
